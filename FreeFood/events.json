@@ -1,0 +1,33 @@
+{"event_0":
+{
+"event_name":"Zillow Info Session",
+"location": "MGH 142",
+"zip_code": "98105",
+"date":"11/16/2016",
+"start_time": "12:30",
+"end_time": "13:30",
+"foods": ["pizza","coke"],
+"url": "url_1"
+},
+"event_1":
+{
+"event_name":"Negotiation 101",
+"location": "LOW 142",
+"zip_code": "98105",
+"date":"11/16/2016",
+"start_time": "12:30",
+"end_time": "14:00",
+"foods": ["coke","cookie"]
+},
+"event_2":
+{
+"event_name":"Applying to Graduate School",
+"location": "PAC 142",
+"zip_code": "98105",
+"date":"11/17/2016",
+"start_time": "12:00",
+"end_time": "13:00",
+"foods": ["pizza","cookie"],
+"url": "url_2"
+}
+}
